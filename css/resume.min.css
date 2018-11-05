@@ -216,7 +216,7 @@ ul.timeline1:before {
     z-index: 400;
 }
 ul.timeline1 > li {
-    margin: 10px 0;
+    margin: 5px 0;
     padding-left: 15px;
 }
 ul.timeline1 > li:before {
