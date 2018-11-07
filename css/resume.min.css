@@ -246,7 +246,7 @@ ul.timeline1 > li:before {
         content: " ";
         width: 5px;
         background-color: #eeeeee;
-        left: 0.4%;
+        left: 0.5%;
         margin-left: -1.5px;
     }
 
@@ -282,7 +282,7 @@ ul.timeline1 > li:before {
             border-radius: 2px;
             padding: 8px;
             position: relative;
-			left: 0.7%;
+			left: 1.2%;
             -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
             box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
         }
